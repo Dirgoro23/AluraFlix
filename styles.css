@@ -20,11 +20,18 @@ section {
         justify-content:center;
 }
 
+div {
+        padding-right: 3%;
+}
 p {
-justify-content: center;
+        justify-content: center;
+        padding-left: 3%;
 }
 
+h1 {
+        padding-left: 2.5%;
+}
 .chamada-texto{
-margin-right: 5%;
+margin-right: 2%;
 font-size: 20px;
 }
