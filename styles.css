@@ -1,11 +1,30 @@
 body {
 color: white;
-background: black;
+background: rgb(59, 14, 4);
 margin: 0px;
+font-family: "MedievalSharp", cursive;
 }
 
 header {
 border-bottom: solid 2px rgb(167, 55, 12);
 padding: 20px;
-font-size: xx-large;
+font-size: 36px;
+color: rgb(255, 255, 255);
+}
+
+section {
+        background: rgb(22, 20, 19);
+        padding-bottom: 55px;
+        padding-top: 55px;
+        display: flex;
+        justify-content:center;
+}
+
+p {
+justify-content: center;
+}
+
+.chamada-texto{
+margin-right: 5%;
+font-size: 20px;
 }
