@@ -12,7 +12,7 @@ font-size: 36px;
 color: rgb(255, 255, 255);
 }
 
-section {
+.chamada {
         background: rgb(22, 20, 19);
         padding-bottom: 55px;
         padding-top: 55px;
@@ -34,4 +34,19 @@ h1 {
 .chamada-texto{
 margin-right: 2%;
 font-size: 20px;
+}
+
+img {
+    height: 200px;    
+}
+
+.cat-01-analise {
+     display: flex;
+     overflow-x: auto;
+     gap: 10px;
+}
+
+.an-s01 {
+        padding-left: 10px;
+        padding-right: 10px;
 }
