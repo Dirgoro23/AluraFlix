@@ -6,6 +6,16 @@ font-family: "MedievalSharp", cursive;
 margin-bottom: 100px;
 }
 
+main {
+        flex: 1;
+    }
+
+    footer {
+        background-color: rgb(59, 14, 4);
+        text-align: center;
+        padding: 10px;
+    }
+
 header {
 border-bottom: solid 2px rgb(167, 55, 12);
 padding: 20px;
